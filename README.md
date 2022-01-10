@@ -1,4 +1,4 @@
-# covid_kgp
+# covid_kgp | nb4 is the final report
 ## This project was made by me when I was quarantined in my college campus after testing positive. This was an attempt to predict how long would I be locked down in my campus room.
 
 ### kar 1: Was sad and wanted to see how our campus' curve looked. Gathered data from medical bulletins and plotted.
