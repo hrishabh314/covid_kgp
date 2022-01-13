@@ -17,5 +17,5 @@
 ![bestfits](https://user-images.githubusercontent.com/74061616/148750554-91e391b0-0848-4ad9-88e4-e5d0e307ca9c.JPG)
 ![result](https://user-images.githubusercontent.com/74061616/148750684-8dda7110-b385-4120-9ba8-868961700691.JPG)
 
-Only time will tell how my prediction ages. Considering the uptrend for the overall country, I believe my first fundamental assumption that peak had been reached might be proved wrong. :')
+Only time will tell how my prediction ages. Considering the uptrend for the overall country, I believe my first fundamental assumption that peak has been reached might be proved wrong. :')
 
